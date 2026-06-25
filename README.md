@@ -63,15 +63,11 @@ Working with Pandas DataFrames
 Creating visualizations using Matplotlib
 
 Performing basic sales analysis
+
 ## Conclusion
 
 This project successfully demonstrated how SQL and Python can be integrated to perform sales data analysis. Using SQLite, Pandas, and Matplotlib, meaningful insights were generated from sales data, and the results were effectively visualized through a bar chart.
-## Conclusion
 
-This project successfully demonstrated how SQL and Python can be integrated to perform sales data analysis. Using SQLite, Pandas, and Matplotlib, meaningful insights were generated from sales data, and the results were effectively visualized through a bar chart.
-## Conclusion
-
-This project successfully demonstrated how SQL and Python can be integrated to perform sales data analysis. Using SQLite, Pandas, and Matplotlib, meaningful insights were generated from sales data, and the results were effectively visualized through a bar chart.
 ## Screenshots
 
 <img width="519" height="328" alt="Screenshot 2026-06-25 115542" src="https://github.com/user-attachments/assets/02df648d-e04b-47ec-9f37-c8ad9583fb22" />
